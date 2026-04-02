@@ -8,7 +8,7 @@ An advanced Computer Vision and Deep Learning system for real-time **Pole Mounte
 
 
 
-## Project Repo Link: https://github.com/anasahmed81103/FYP-CV_based_Transformer_Health_Indexer
+### Project Repo Link: https://github.com/anasahmed81103/FYP-CV_based_Transformer_Health_Indexer
 
 ---
 
